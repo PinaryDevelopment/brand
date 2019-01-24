@@ -1,0 +1,3 @@
+green: C8D56E
+blue: 527ECD
+logo-font: Calisto MT
